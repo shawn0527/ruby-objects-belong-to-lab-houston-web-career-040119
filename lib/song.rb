@@ -3,6 +3,6 @@ class Song
 
   def artist
     Artist.all.select do |artist|
-      
+
 
 end
