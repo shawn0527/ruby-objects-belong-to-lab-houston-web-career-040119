@@ -3,6 +3,6 @@ class Song
 
   def artist
     @artist
-
+  end
 
 end
